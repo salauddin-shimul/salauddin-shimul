@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Web Developemt on The Odin Project.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
--   email: smsalauddinshimul@protonmail.com
+  - ✉️ email: smsalauddinshimul@protonmail.com
 
 <!---
 sal9934/sal9934 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
