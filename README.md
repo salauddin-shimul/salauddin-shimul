@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Salauddin 
 - 👀 I’m interested in Full Stack Web & App Development. I am also interested in AI and Data Science.
-- 🌱 I’m currently learning Full Stack Web Developemt on The Odin Project.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Full Stack Web Developemt.
+- 💞️ I’m looking to collaborate on any app or web idea
 - 📫 How to reach me :
-  - ✉️ email: smsalauddinshimul@protonmail.com
+  - ✉️ email: sm.salauddin.shimul@g.bracu.ac.bd
+  - LinkedIn: https://www.linkedin.com/in/sm-salauddin-shimul-815b3b207/
+
 
 <!---
 sal9934/sal9934 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
