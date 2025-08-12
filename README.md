@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🚀 **Currently building:** a full-stack web app
-🤝 **Open to:** collaborating on exciting Open Source projects
-🧠 **Learning:** Machine Learning (because why not teach computers to think?)
+🚀 **Currently building:** a full-stack web app<br>
+🤝 **Open to:** collaborating on exciting Open Source projects<br>
+🧠 **Learning:** Machine Learning (because why not teach computers to think?)<br>
 💡 **Fun fact:** my initials are **SMS** – yes, like the text messages 📩
 
 
