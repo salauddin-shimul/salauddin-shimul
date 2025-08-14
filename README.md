@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🚀 **Currently building:** a full-stack web app<br>
+🚀 **Currently building:** a full-stack healthcare web app<br>
 🤝 **Open to:** collaborating on exciting Open Source projects<br>
-🧠 **Learning:** Machine Learning (because why not teach computers to think?)<br>
+🧠 **Currently Learning:** Machine Learning (because why not teach computers to think?)<br>
 💡 **Fun fact:** my initials are **SMS** – yes, like the text messages 📩
 
 
